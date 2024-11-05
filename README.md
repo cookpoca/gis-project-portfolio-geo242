@@ -1,4 +1,4 @@
-# 🌎: GEO 242 Mapping the Changing World 🌎
+# 🌎 GEO 242 Mapping the Changing World 🌎
 
 Cailin Cook-Porter
 
@@ -14,3 +14,7 @@ Cailin Cook-Porter
 
 - [Understanding map coordinates](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/GEO242_Week_3_Assignment.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/GEO242_Week_4_Assignment.ipynb)
+
+## Spatial Analysis
+
+- [Spatial analysis for vector data](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Spatial_Analysis/GEO242_Week_10_Assignment.ipynb)
