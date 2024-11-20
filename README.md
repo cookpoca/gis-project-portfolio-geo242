@@ -21,4 +21,4 @@ Cailin Cook-Porter
 - [Working with U.S. Census Data for Spatial Analysis](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Spatial_Analysis/GEO242_Week_12_Assignment.ipynb)
 
 ## Web-Based Mapping
-- [Replicating John Snow's Cholera Map](https://arcg.is/GjCzm0)
+- [Replicating John Snow's Cholera Map](https://arcg.is/mefGS)
