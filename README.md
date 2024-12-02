@@ -7,18 +7,18 @@ Cailin Cook-Porter
 
 ## Basic Mapping
 
-  - [First map in QGIS](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Basic_Mapping/GEO242_Week_2_Assignment.ipynb)
-  - [Map the age index based on 2000 census data](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Basic_Mapping/GEO242_Week_5_Assignment.ipynb)
+  - [First map in QGIS](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Basic_Mapping/First_QGIS_Mapping.ipynb)
+  - [Map the age index based on 2000 census data](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Basic_Mapping/Filtering_Spatial_Data.ipynb)
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/GEO242_Week_3_Assignment.ipynb)
+- [Understanding map coordinates](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/Map_Projections.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/Georeferencing.ipynb)
 
 ## Spatial Analysis
 
 - [Spatial analysis for vector data](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Spatial_Analysis/GEO242_Week_10_Assignment.ipynb)
-- [Working with U.S. Census Data for Spatial Analysis](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Spatial_Analysis/GEO242_Week_12_Assignment.ipynb)
+- [Working with U.S. Census Data for Spatial Analysis](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Spatial_Analysis/Working_With_Census_Data.ipynb)
 
 ## Web-Based Mapping
 - [Replicating John Snow's Cholera Map](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=23589e563cc24a76a2fd24da3224b6e2)
