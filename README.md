@@ -13,7 +13,7 @@ Cailin Cook-Porter
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/GEO242_Week_3_Assignment.ipynb)
-- [Georeference a 1960s Miami University campus map](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/GEO242_Week_4_Assignment.ipynb)
+- [Georeference a 1960s Miami University campus map](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/Map_Coordinate_Basics/Georeferencing.ipynb)
 
 ## Spatial Analysis
 
