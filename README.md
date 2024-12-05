@@ -23,3 +23,6 @@ Cailin Cook-Porter
 
 ## Web-Based Mapping
 - [Replicating John Snow's Cholera Map](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=23589e563cc24a76a2fd24da3224b6e2)
+
+## 3D Printing
+- [Working with DEM](https://github.com/cookpoca/gis-project-portfolio-geo242/blob/main/3D_Printing/DEM_Our_World_in_3D.ipynb)
